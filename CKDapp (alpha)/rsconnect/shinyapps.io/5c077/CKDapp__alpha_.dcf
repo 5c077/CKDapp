@@ -1,0 +1,10 @@
+name: CKDapp__alpha_
+account: 5c077
+server: shinyapps.io
+appId: 119065
+bundleId: 570182
+url: https://5c077.shinyapps.io/CKDapp__alpha_/
+when: 1474997540.02502
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: data_CKD_16-08-02.csv|data_CKD_16-09-27II.rds|data_CKD_16-09-27II.rds.csv|data_CKD_16-09-27II.xlsx|data_CKD_16-09-27III.csv|data_CKD_16-09-27III.rds|expr_2016-04-10_small.rds
